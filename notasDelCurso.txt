@@ -1,0 +1,6 @@
+CURSO DE BOOTSTRAP
+
+¿que es?
+Es un framework frontend de css que nos permite ahorrar tiempo porque ya trae consigo componentes 
+visuales armados y grillas para insertar nuestro contenido, ademas nos facilita el diseño responsive 
+desing y tambien nos vamos a despreocupar de la compatibilidad con los navegadores. 
